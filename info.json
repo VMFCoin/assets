@@ -1,0 +1,29 @@
+{
+  "name": "$Pizza",
+  "symbol": "PIZZA",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "The official token of PizzaParty game on Base. Collect toppings, win jackpots, and own your own pizza parlor!",
+  "website": "https://pizzaparty.game",
+  "explorer": "https://basescan.org/token/0xCdcb34E2a296DdeBfb6675185BdC26B5bb4FADE6",
+  "status": "active",
+  "id": "0xCdcb34E2a296DdeBfb6675185BdC26B5bb4FADE6",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/pizzapartygame"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/pizzapartygame"
+    },
+    {
+      "name": "github",
+      "url": "https://github.com/VMFCoin/-PizzaToken"
+    }
+  ],
+  "tags": [
+    "gamefi",
+    "defi"
+  ]
+}
